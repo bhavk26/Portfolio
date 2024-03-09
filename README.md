@@ -27,7 +27,7 @@ then fetched by 𝗣𝗼𝘄𝗲𝗿 𝗕𝗜 for analytics.
 ## 
 ### 2. Healthcare Dashboard
 
-𝗣𝗮𝘁𝗶𝗲𝗻𝘁𝘀 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀
+𝗣𝗮𝘁𝗶𝗲𝗻𝘁𝘀 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 Dynamic Interactive dashboard
 
 ![EEG Band Discovery](/assets/Inkedhealth1_LI.jpg)
 

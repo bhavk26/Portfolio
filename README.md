@@ -1,7 +1,8 @@
 ![EEG Band Discovery](/assets/fprof.jpg)
 # Portfolio :-
 
-Technical Skills involved :  𝗣𝘆𝘁𝗵𝗼𝗻, 𝗦𝗤𝗟, 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲, 𝗗𝗮𝘁𝗮 𝗺𝗼𝗱𝗲𝗹𝗹𝗶𝗻𝗴, 𝗣𝗼𝘄𝗲𝗿 𝗕𝗜, 𝗗𝗔𝗫, 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗶𝗻𝗴, 𝗩𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻 , 𝗘𝗧𝗟
+Technical Skills involved : 
+𝗣𝘆𝘁𝗵𝗼𝗻, 𝗦𝗤𝗟, 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲, 𝗗𝗮𝘁𝗮 𝗺𝗼𝗱𝗲𝗹𝗹𝗶𝗻𝗴, 𝗣𝗼𝘄𝗲𝗿 𝗕𝗜, 𝗗𝗔𝗫, 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗶𝗻𝗴, 𝗩𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻 , 𝗘𝗧𝗟
 
 ## Projects
 ### 1. Accident Analytics ETL Project
@@ -18,5 +19,9 @@ then fetched by 𝗣𝗼𝘄𝗲𝗿 𝗕𝗜 for analytics.
 
 ![EEG Band Discovery](/assets/Accid.jpg)
 
-### 1. Accident Analytics ETL Project
+
+##  
+### 2. Healthcare Dashboard
+
+![EEG Band Discovery](/assets/Inkedhealth1_LI.jpg)
 

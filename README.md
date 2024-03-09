@@ -6,7 +6,7 @@ Technical Skills involved :
 
 ## Projects
 ### 1. Accident Analytics ETL Project
-[Complete Project Link](https://github.com/bhavk26/JSON_ETL_PYTHON_Postgresql.git)
+[𝗖𝗼𝗺𝗽𝗹𝗲𝘁𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝗻𝗸](https://github.com/bhavk26/JSON_ETL_PYTHON_Postgresql.git)
 
 The project 𝗲𝘅𝘁𝗿𝗮𝗰𝘁𝘀, India Statewise yearly (2008-16) accident due to high speed, , data as 𝗝𝗦𝗢𝗡 from API provided by Government Open
 Data Portal. After 𝘁𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 (Python, SQL) in accordance with Target Schema (reporting use case) it is then ingested/𝗹𝗼𝗮𝗱𝗲𝗱 to 𝗣𝗼𝘀𝘁𝗴𝗿𝗲𝗦𝗤𝗟 𝗖𝗹𝗼𝘂𝗱 db, which is

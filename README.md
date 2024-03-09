@@ -20,8 +20,18 @@ then fetched by 𝗣𝗼𝘄𝗲𝗿 𝗕𝗜 for analytics.
 ![EEG Band Discovery](/assets/Accid.jpg)
 
 
-##  
+## 
 ### 2. Healthcare Dashboard
 
+Patients Analytics
+
 ![EEG Band Discovery](/assets/Inkedhealth1_LI.jpg)
+
+##
+### 2. Sales Dashboard
+
+Profit Analytics
+
+![EEG Band Discovery](/assets/Kpii.jpg)
+
 

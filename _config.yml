@@ -2,7 +2,4 @@ title: Bhavesh Kumar
 description: Associate Implementation Analyst
 show_downloads: false
 #google_analytics:
-theme: jekyll-theme-slate
-github:
-  zip_url: https://drive.google.com/file/d/1ZQwMesjF6VddXVOkmKJX5zmyr3Y4q5Tk/view
-  another_url: https://drive.google.com/file/d/1ZQwMesjF6VddXVOkmKJX5zmyr3Y4q5Tk/view
+theme: jekyll-theme-tactile

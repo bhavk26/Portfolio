@@ -23,14 +23,14 @@ then fetched by 𝗣𝗼𝘄𝗲𝗿 𝗕𝗜 for analytics.
 ## 
 ### 2. Healthcare Dashboard
 
-Patients Analytics
+𝗣𝗮𝘁𝗶𝗲𝗻𝘁𝘀 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀
 
 ![EEG Band Discovery](/assets/Inkedhealth1_LI.jpg)
 
 ##
-### 2. Sales Dashboard
+### 3. Sales Dashboard
 
-Profit Analytics
+𝗢𝗹𝗶𝘀𝘁 𝗦𝘁𝗼𝗿𝗲 𝗣𝗿𝗼𝗳𝗶𝘁 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀
 
 ![EEG Band Discovery](/assets/Kpii.jpg)
 

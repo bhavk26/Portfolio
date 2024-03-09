@@ -1,4 +1,7 @@
+### [Resume](https://github.com/bhavk26/JSON_ETL_PYTHON_Postgresql.git)
+
 ![EEG Band Discovery](/assets/fprof.jpg)
+
 # Portfolio :-
 
 Technical Skills involved : 

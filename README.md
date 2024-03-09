@@ -13,6 +13,7 @@ Data Portal. After 𝘁𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 (Pyt
 then fetched by 𝗣𝗼𝘄𝗲𝗿 𝗕𝗜 for analytics.
 
 𝗙𝗹𝗼𝘄 𝗗𝗶𝗮𝗴𝗿𝗮𝗺:
+
 ![EEG Band Discovery](/assets/Untitled-2024-02-18-1954.png)
 
 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀:

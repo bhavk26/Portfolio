@@ -32,6 +32,9 @@ then fetched by 𝗣͟𝗼͟𝘄͟𝗲͟𝗿͟ ͟𝗕͟𝗜͟ for analytics.
 ![EEG Band Discovery](/assets/Inkedhealth1_LI.jpg)
 
 ##
+### 3. Marketing Dashboard
+![EEG Band Discovery](/assets/Screenshotg.jpg)
+##
 ### 3. Sales Dashboard
 
 𝗢𝗹𝗶𝘀𝘁 𝗦𝘁𝗼𝗿𝗲 𝗣𝗿𝗼𝗳𝗶𝘁 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀

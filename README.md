@@ -25,6 +25,10 @@ then fetched by 𝗣͟𝗼͟𝘄͟𝗲͟𝗿͟ ͟𝗕͟𝗜͟ for analytics.
 
 ##
 ### 2. Wellness Analytics Dashboard
+
+![EEG Band Discovery](/assets/db.jpg)
+
+##
 ### 3. Healthcare Dashboard
 
 𝗣𝗮𝘁𝗶𝗲𝗻𝘁𝘀 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 Dynamic Interactive dashboard

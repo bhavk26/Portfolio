@@ -1,7 +1,7 @@
 
 
 ![EEG Band Discovery](/assets/fprof.jpg)  
-### Experience : 2.85+ years
+### Experience : 3 years
 # Portfolio :-
  
 Technical Skills involved : 

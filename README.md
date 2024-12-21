@@ -39,10 +39,10 @@ then fetched by 𝗣͟𝗼͟𝘄͟𝗲͟𝗿͟ ͟𝗕͟𝗜͟ for analytics.
 ### 4. Marketing Dashboard
 ![EEG Band Discovery](/assets/Screenshotg.jpg)
 ##
-### 5. Sales Dashboard
+### 5. Timeline Analysis
 
-𝗢𝗹𝗶𝘀𝘁 𝗦𝘁𝗼𝗿𝗲 𝗣𝗿𝗼𝗳𝗶𝘁 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗮𝗰𝘁𝗶𝘃𝗶𝘁𝘆 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀
 
-![EEG Band Discovery](/assets/Kpii.jpg)
+![EEG Band Discovery](/assets/gantt.jpg)
 
 

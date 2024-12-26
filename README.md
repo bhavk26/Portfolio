@@ -24,25 +24,28 @@ then fetched by 𝗣͟𝗼͟𝘄͟𝗲͟𝗿͟ ͟𝗕͟𝗜͟ for analytics.
 ![EEG Band Discovery](/assets/Accid.jpg)
 
 ##
-### 2. Wellness Analytics Dashboard
+### 2. Timeline Analysis
+
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗮𝗰𝘁𝗶𝘃𝗶𝘁𝘆 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀
+
+![EEG Band Discovery](/assets/crds.jpg)
+![EEG Band Discovery](/assets/gantt.jpg)
+
+
+##
+### 3. Wellness Analytics Dashboard
 
 ![EEG Band Discovery](assets/prooo.jpg)
 
 ##
-### 3. Healthcare Dashboard
+### 4. Healthcare Dashboard
 
 𝗣𝗮𝘁𝗶𝗲𝗻𝘁𝘀 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 Dynamic Interactive dashboard
 
 ![EEG Band Discovery](/assets/Inkedhealth1_LI.jpg)
 
 ##
-### 4. Marketing Dashboard
+### 5. Marketing Dashboard
 ![EEG Band Discovery](/assets/Screenshotg.jpg)
-##
-### 5. Timeline Analysis
-
-𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗮𝗰𝘁𝗶𝘃𝗶𝘁𝘆 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀
-
-![EEG Band Discovery](/assets/gantt.jpg)
 
 
